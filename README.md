@@ -1,3 +1,4 @@
 # Hackathon
 Códigos utilizados no game: EduAction
-Equiep: Capivaras GO
+
+Equipe: Capivaras GO
